@@ -194,7 +194,6 @@
 				D5DB758CD999873BD1A2DC50 /* Pods-RNGithubAuthTests.debug.xcconfig */,
 				4FB4B95DC5401556D600C73A /* Pods-RNGithubAuthTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -308,6 +307,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
