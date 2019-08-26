@@ -48,11 +48,11 @@ export default function SignIn({navigation}) {
         );
         if (!data.includes('error')) {
           const [, token] = words(data, /\=(.*?)\&/);
+          setLoading(false);
           navigation.navigate('Home', {token});
         }
       } catch (error) {
         console.log('error', error);
-      } finally {
         setLoading(false);
       }
     }
