@@ -1,4 +1,4 @@
-# RNGirhubAuth
+# RNGithubAuth
 
 Projeto de estudo sobre OAuth e Deep Linking usando React Native
 
@@ -13,11 +13,11 @@ Projeto de estudo sobre OAuth e Deep Linking usando React Native
 
 ## OAuth
 
-Resumidamente, é um protocolo que permite que cliente de uma aplicação se autentiquem através de uma aplicação de terceiro, como Facebook, Google, Github...
+Resumidamente, é um protocolo que permite que clientes de uma aplicação se autentiquem através de uma aplicação de terceiro, como Facebook, Google, Github...
 
 ## Criando OAuth App
 
-Primeiramente, precisamos criar um repositório no Github. Depois podemos ir em:
+Primeiramente, precisamos criar um OAuth App no Github, para isso, podemos ir em:
 `Settings -> Developer Settings -> OAuth Apps`. E vamos criar um novo OAuthApp.
 
 <img align="center" src="src/assets/newApp.png" width="400" />
