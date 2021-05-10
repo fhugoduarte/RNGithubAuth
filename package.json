@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "axios": "^0.19.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "react": "16.8.6",
     "react-native": "0.60.5",
     "react-native-dotenv": "^0.2.0",
